@@ -1,0 +1,21 @@
+{
+  "predmet": [
+    { "id": 0,  "name": " ","type":"", "link": "", "Table":"" },
+    { "id": 1,  "name": "", "type":"", "link": "", "Table":"" },
+    { "id": 2,  "name": "", "type":"", "link": "", "Table":"" },
+    { "id": 3,  "name": "", "type":"", "link": "", "Table":"" },
+    { "id": 4,  "name": "", "type":"", "link": "", "Table":"" },
+    { "id": 5,  "name": "", "type":"", "link": "", "Table":"" },
+    { "id": 6,  "name": "", "type":"", "link": "", "Table":"" }
+
+  ],
+  "week": [
+    [0,0,0,0],
+    [0,0,0,0],
+    [0,0,0,0],
+    [0,0,0,0],
+    [0,0,0,0],
+    [0,0,0,0]
+
+  ]
+}
